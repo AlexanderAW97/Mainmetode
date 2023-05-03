@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Mainmetode": {
+      "commandName": "Project",
+      "commandLineArgs": "Hei dette er en test for å se hvor mange ord som er i terminalen nå"
+    }
+  }
+}
